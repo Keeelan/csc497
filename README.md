@@ -4,7 +4,7 @@ This repository was initially made for a final project of a bachelor's degree in
 The project was built in JUCE and can be compiled as a VST3 plugin, and Audio Component plugin, or a standalone plugin. The layout and code structure took inspiration from [The Audio Programmer's JUCE Synth](https://github.com/TheAudioProgrammer/tapSynth), as it's highly componentized structure in the front and back end was very intuitive to understand and work with.
 
 <a href="#">
-    <img src="https://github.com/Keeelan/csc497/blob/main/ui.jpeg">
+    <img src="https://github.com/Keeelan/csc497/blob/main/ui.jpg">
   </a>
 
 ## Features
